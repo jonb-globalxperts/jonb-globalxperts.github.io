@@ -3,7 +3,7 @@ title: GlobalXperts
 subtitle:
 email: admin@globalxperts.net
 description: GlobalXperts is a network communications support organization with a business focus of providing end users and solutions providers, with support services based on industry best practices.
-baseurl: "/globalxperts" # the subpath of your site, e.g. /blog
+baseurl: "/_site" # the subpath of your site, e.g. /blog
 url: https://jonb-globalxperts.github.io/ # the base hostname & protocol for your site
 author:
 street_address:
