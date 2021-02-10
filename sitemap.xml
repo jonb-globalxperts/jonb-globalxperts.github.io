@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//2016/08/25/aliquam.html</loc>
+      <loc>https://jonb-globalxperts.github.io/2016/08/25/aliquam.html</loc>
       
         <lastmod>2016-08-25T00:00:00-05:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//2016/08/24/tempus.html</loc>
+      <loc>https://jonb-globalxperts.github.io/2016/08/24/tempus.html</loc>
       
         <lastmod>2016-08-24T00:00:00-05:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//2016/08/23/magna.html</loc>
+      <loc>https://jonb-globalxperts.github.io/2016/08/23/magna.html</loc>
       
         <lastmod>2016-08-23T00:00:00-05:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//2016/08/22/ipsum.html</loc>
+      <loc>https://jonb-globalxperts.github.io/2016/08/22/ipsum.html</loc>
       
         <lastmod>2016-08-22T00:00:00-05:00</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//2016/08/21/consequat.html</loc>
+      <loc>https://jonb-globalxperts.github.io/2016/08/21/consequat.html</loc>
       
         <lastmod>2016-08-21T00:00:00-05:00</lastmod>
       
@@ -78,7 +78,7 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//2016/08/20/etiam.html</loc>
+      <loc>https://jonb-globalxperts.github.io/2016/08/20/etiam.html</loc>
       
         <lastmod>2016-08-20T00:00:00-05:00</lastmod>
       
@@ -94,24 +94,9 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//404.html</loc>
+      <loc>https://jonb-globalxperts.github.io/404.html</loc>
       
-        <lastmod>2021-02-10T05:43:09-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://jonb-globalxperts.github.io//all_posts.html</loc>
-      
-        <lastmod>2021-02-10T05:43:09-06:00</lastmod>
+        <lastmod>2021-02-10T05:44:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -124,24 +109,9 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//elements.html</loc>
+      <loc>https://jonb-globalxperts.github.io/all_posts.html</loc>
       
-        <lastmod>2021-02-10T05:43:09-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://jonb-globalxperts.github.io//generic.html</loc>
-      
-        <lastmod>2021-02-10T05:43:09-06:00</lastmod>
+        <lastmod>2021-02-10T05:44:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -154,24 +124,9 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//</loc>
+      <loc>https://jonb-globalxperts.github.io/elements.html</loc>
       
-        <lastmod>2021-02-10T05:43:09-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://jonb-globalxperts.github.io//landing.html</loc>
-      
-        <lastmod>2021-02-10T05:43:09-06:00</lastmod>
+        <lastmod>2021-02-10T05:44:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -184,9 +139,54 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//assets/css/main.css</loc>
+      <loc>https://jonb-globalxperts.github.io/generic.html</loc>
       
-        <lastmod>2021-02-10T05:43:09-06:00</lastmod>
+        <lastmod>2021-02-10T05:44:56-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://jonb-globalxperts.github.io/</loc>
+      
+        <lastmod>2021-02-10T05:44:56-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://jonb-globalxperts.github.io/landing.html</loc>
+      
+        <lastmod>2021-02-10T05:44:56-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://jonb-globalxperts.github.io/assets/css/main.css</loc>
+      
+        <lastmod>2021-02-10T05:44:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -201,9 +201,9 @@
   
     
     <url>
-      <loc>https://jonb-globalxperts.github.io//assets/css/main.css.map</loc>
+      <loc>https://jonb-globalxperts.github.io/assets/css/main.css.map</loc>
       
-        <lastmod>2021-02-10T05:43:09-06:00</lastmod>
+        <lastmod>2021-02-10T05:44:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
